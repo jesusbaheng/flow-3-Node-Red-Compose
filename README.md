@@ -1,7 +1,5 @@
 # flow-3-Node-Red-Compose
-Este repositorio muestra el uso de dashboards en Node Red
-# flow 3
-este repositorio muestra el uso de dashboards con NodeRed, usando NodeRed por Docker Compose 
+Este repositorio muestra el uso de dashboards en Node Red, usando NodeRed por Docker Compose 
 
 ## Introducción
 
