@@ -65,7 +65,7 @@ A continuación se puede apreciar cual es el resultado esperado de este flow.
 
 ## Evidencias
 
--[Tik Tok]()
+-[Tik Tok](https://vm.tiktok.com/ZM2pUHofE/)
 
 # Creditos
 
