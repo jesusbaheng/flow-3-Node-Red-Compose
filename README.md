@@ -61,7 +61,7 @@ Para observar el resultado de este flow, sólo es necesario hacer deploy y consu
 
 A continuación se puede apreciar cual es el resultado esperado de este flow.
 
-![]()
+![](https://github.com/jesusbaheng/flow-3-Node-Red-Compose/blob/main/imagenes/Screenshot%20from%202023-05-24%2021-13-58.png?raw=true)
 
 ## Evidencias
 
